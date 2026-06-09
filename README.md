@@ -1,4 +1,4 @@
-mein sab ko mention kar sakte ho:
+
 
 # 🚀 C++ Management Systems Collection
 
