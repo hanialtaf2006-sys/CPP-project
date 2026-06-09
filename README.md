@@ -1,4 +1,4 @@
-Agar tumhari repository mein **4 C++ projects/programs** hain, to README mein sab ko mention kar sakte ho:
+mein sab ko mention kar sakte ho:
 
 # 🚀 C++ Management Systems Collection
 
@@ -46,11 +46,3 @@ This repository contains multiple C++ console-based projects developed to demons
 ## 🎯 Purpose
 
 These projects were developed as academic and learning projects to strengthen problem-solving skills and gain practical experience in C++ programming.
-
-**GitHub Repository Description:**
-
-```text
-Collection of C++ projects including LESCO Billing System, Online Shopping System, Grocery Mart Management System, and other management applications.
-```
-
-Agar tum 4th project ka naam bata do, to main README ko uske hisaab se complete aur professional bana deta hoon.
